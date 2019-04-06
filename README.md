@@ -1,1 +1,3 @@
 # TemplatedDoublyLinkedList
+
+Author: Jacob Hamilton
